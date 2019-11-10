@@ -1,7 +1,7 @@
 # WLSIL-Website
 
 ![Website](https://img.shields.io/website?down_message=offline&up_message=onliine&url=https%3A%2F%2F3xbun.github.io%2FWLSIL-Website%2F)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub language count](https://img.shields.io/github/languages/count/3xbun/WLSIL-Website)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F3xbunn)
 
