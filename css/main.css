@@ -42,3 +42,13 @@ a:hover {
 li {
   list-style: none;
 }
+
+.lang ul li img {
+  vertical-align: middle;
+}
+
+
+.logo {
+  height: 1em;
+  padding-right: .5em;
+}
