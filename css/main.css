@@ -41,12 +41,12 @@ a:hover {
 
 li {
   list-style: none;
+  text-align: center;
 }
 
 .lang ul li img {
   vertical-align: middle;
 }
-
 
 .logo {
   height: 1em;
