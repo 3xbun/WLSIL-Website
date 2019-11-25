@@ -16,14 +16,16 @@ WLSTL stands for "Which languages should I learn". It's a small website for stud
 - [ ] Finish everything!
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/) License
 
-Copyright (c) [2019] [Bunnasorn Kaewsiri]
+Copyright (c) [2019][bunnasorn kaewsiri]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
