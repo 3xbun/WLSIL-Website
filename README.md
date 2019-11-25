@@ -10,9 +10,10 @@ WLSTL stands for "Which languages should I learn". It's a small website for stud
 ## Task
 
 - [x] Add language's logos
-- [ ] Add application in the main page
-- [ ] Add basic syntax for each language's pages
-- [ ] Add exerciese
+- [x] Add application in the main page
+- [x] Add basic syntax for each language's pages
+- [x] Add exerciese
+- [ ] Add explanations
 - [ ] Finish everything!
 
 ## Contributing
