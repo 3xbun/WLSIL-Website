@@ -60,20 +60,16 @@
     <h1>PHP</h1>
     <div class="container">
       <p>
-        Python เป็นภาษา Dynamic Object-Oriented Programming ที่ถูกพัฒนาขึ้นโดย
-        Guido von Rossum ในปี ค.ศ. 1990 และปัจจุบันถูกดูแลโดย Python Software
-        Foundation (PSF) โดย Version ล่าสุดตอนนี้คือ Python 3.1
-        หรือเรียกอีกอย่างว่า Python 3000 หรือ Py3k
-        รายละเอียดเพิ่มเติมสามารถที่จะดูได้ที่ Official Site ที่
-        http://www.python.org
+        PHP ย่อมาจากคำว่า “Personal Home Page Tool” (ปัจจุบันได้เพิ่มเติมคำย่อใหม่โดยรวมกับตัวย่อเป็น PHP : PHP Hypertext Preprocessor) ซึ่งเป็นภาษาประเภท Script Language ที่ทำงานแบบ Server Side Script กระบวนการทำงานจะทำงานแบบโปรแกรมแปลคำสั่ง interpreter คือแปลภาษาทุกครั้งที่มีคนเรียกสคริปต์ ข้อดีคือ ไม่ต้องนำไปประมวลผลใหม่ (Compiler) เมื่อจะนำโปรแกรมไปใช้งาน หรือจะอัพเดตเวอร์ชั่นของโปรแกรม สามารถอัพโหลดขึ้นไปทับไฟล์เดิมแล้วใช้งานได้ทันที ขอเสียที่ต่างกันอย่างชัดเจนก็คือ กรณี Syntax ผิดจะรู้ก็ต่อเมื่อมีผู้ใช้งานเจอบั๊ก
       </p>
     </div>
 
     <div class="container">
       <h2>วิธีการเขียน Hello World</h2>
       <pre>
-      <code data-language="c">
-        print("Hello World")</code>
+      <code data-language="php">
+        &lt;?php echo Hello World; ?>
+        // Hello World</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis
@@ -85,9 +81,9 @@
     <div class="container">
       <h2>วิธีการคำนวนทางคณิตศาสตร์</h2>
       <pre>
-      <code data-language="c">
-        print(1 + 1)
-        # 2</code>
+      <code data-language="php">
+        &lt;?php echo 1 + 1; ?>
+        // 2</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis
@@ -99,10 +95,12 @@
     <div class="container">
       <h2>วิธีการใช้ตัวแปร</h2>
       <pre>
-      <code data-language="c">
-        name = "John Doe"
-        print(name)
-        # John Doe</code>
+      <code data-language="php">
+        &lt;?php
+          $name = "John Doe"
+          $age = 24
+          echo name + ", I'm " + age + "years old"; ?>
+        # John Doe, I'm 24 years old</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis

@@ -60,12 +60,8 @@
     <h1>C#</h1>
     <div class="container">
       <p>
-        Python เป็นภาษา Dynamic Object-Oriented Programming ที่ถูกพัฒนาขึ้นโดย
-        Guido von Rossum ในปี ค.ศ. 1990 และปัจจุบันถูกดูแลโดย Python Software
-        Foundation (PSF) โดย Version ล่าสุดตอนนี้คือ Python 3.1
-        หรือเรียกอีกอย่างว่า Python 3000 หรือ Py3k
-        รายละเอียดเพิ่มเติมสามารถที่จะดูได้ที่ Official Site ที่
-        http://www.python.org
+          C# คือ ภาษาคอมพิวเตอร์ประเภท  object-oriented programming พัฒนาโดย  Microsoft โดยมีจุดมุ่งหมายในการวมความสามารถการคำนวณของ C++ ด้วยการโปรแกรมง่ายกว่าของ Visual Basic โดย C# มีพื้นฐานจาก C++ และเก็บส่วนการทำงานคล้ายกับ Java
+     C# ได้รับการออกแบบให้ทำงานกับ .NET platform ของ Microsoft จุดมุ่งหมายคือ อำนวยความสะดวกในการแลกเปลี่ยนสารสนเทศและบริการผ่านเว็บ และทำให้ผู้พัฒนาสร้างโปรแกรมประยุกต์ในขนาดกระทัดรัด C# ทำให้โปรแกรมง่ายขึ้นผ่านการใช้ Extensible Markup Language (XML) และ Simple Object Access Protocol (SOAP)
       </p>
     </div>
 
@@ -73,7 +69,11 @@
       <h2>วิธีการเขียน Hello World</h2>
       <pre>
       <code data-language="c">
-        print("Hello World")</code>
+        static void Main()
+        {
+          Console.WriteLine("Hello World");
+        }
+        // Hello World</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis
@@ -86,8 +86,11 @@
       <h2>วิธีการคำนวนทางคณิตศาสตร์</h2>
       <pre>
       <code data-language="c">
-        print(1 + 1)
-        # 2</code>
+        static void Main()
+        {
+          Console.WriteLine(1 + 1);
+        }
+        // 2</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis
@@ -100,9 +103,13 @@
       <h2>วิธีการใช้ตัวแปร</h2>
       <pre>
       <code data-language="c">
-        name = "John Doe"
-        print(name)
-        # John Doe</code>
+        static void Main()
+        {
+          char *name = "John Doe"
+          int age = 24
+          Console.WriteLine(name + ", I'm " + age + "years old");
+        }
+        // John Doe, I'm 24 years old</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis
