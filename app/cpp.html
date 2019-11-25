@@ -60,20 +60,22 @@
     <h1>C++</h1>
     <div class="container">
       <p>
-        Python เป็นภาษา Dynamic Object-Oriented Programming ที่ถูกพัฒนาขึ้นโดย
-        Guido von Rossum ในปี ค.ศ. 1990 และปัจจุบันถูกดูแลโดย Python Software
-        Foundation (PSF) โดย Version ล่าสุดตอนนี้คือ Python 3.1
-        หรือเรียกอีกอย่างว่า Python 3000 หรือ Py3k
-        รายละเอียดเพิ่มเติมสามารถที่จะดูได้ที่ Official Site ที่
-        http://www.python.org
+        C++ คือ  ภาษา C programming language รุ่นใหม่ เป็นภาษาในการเขียนโปรแกรม  ถูกพัฒนาโดย Dr.Bjarne Stroustrup ซึ่งเป็นนักวิจัยอยู่ทีห้องปฏิบัติการ Bell Labs ประเทศสหรัฐอเมริกาในระหว่างปี พ.ศ. 2525-2528 ภาษา C++ เกิดจากแนวคิดในการเพิ่มประสิทธิภาพภาษา CC โดยได้นำความสามารถของ ภาษา C มาพัฒนา ให้เป็นโปรแกรมภาษาที่มีความเป็น Object Oriented Programming (โปรแกรมเชิงวัตถุ) และนี้เองคือที่มาของภาษา  C++ จากการพัฒนานี้ทำให้ทุกสิ่งที่ภาษา C ทำได้ ภาษา C++ ก็จะสามารถทำได้ แต่สิ่งที่ภาษา C++ ทำได้ ภาษา C อาจจะทำไม่ได้
       </p>
     </div>
 
     <div class="container">
       <h2>วิธีการเขียน Hello World</h2>
       <pre>
-      <code data-language="c">
-        print("Hello World")</code>
+      <code data-language="c"> 
+        #include &lt;iostream>
+        using namespace std;
+        int main() 
+        {
+          cout << "Hello, World!";
+          return 0;
+        }
+        // Hello World</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis
@@ -86,8 +88,14 @@
       <h2>วิธีการคำนวนทางคณิตศาสตร์</h2>
       <pre>
       <code data-language="c">
-        print(1 + 1)
-        # 2</code>
+        #include &lt;iostream>
+        using namespace std;
+        int main() 
+        {
+          cout << 1 + 1;
+          return 0;
+        }
+        // 2</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis
@@ -100,9 +108,17 @@
       <h2>วิธีการใช้ตัวแปร</h2>
       <pre>
       <code data-language="c">
-        name = "John Doe"
-        print(name)
-        # John Doe</code>
+        # John Doe
+        #include &lt;iostream>
+        using namespace std;
+        int main() 
+        {
+          string name = "John Doe"
+          int age = 24
+          cout << name + ", I'm " + age + "years old";
+          return 0;
+        }
+        // John Doe, I'm 24 years old</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis

@@ -60,12 +60,7 @@
     <h1>Objective C</h1>
     <div class="container">
       <p>
-        Python เป็นภาษา Dynamic Object-Oriented Programming ที่ถูกพัฒนาขึ้นโดย
-        Guido von Rossum ในปี ค.ศ. 1990 และปัจจุบันถูกดูแลโดย Python Software
-        Foundation (PSF) โดย Version ล่าสุดตอนนี้คือ Python 3.1
-        หรือเรียกอีกอย่างว่า Python 3000 หรือ Py3k
-        รายละเอียดเพิ่มเติมสามารถที่จะดูได้ที่ Official Site ที่
-        http://www.python.org
+        ภาษาอ็อบเจกทีฟ-ซี (อังกฤษ: Objective-C หรือ ObjC) เป็นภาษาโปรแกรมเชิงวัตถุและมีสมบัติการสะท้อน โดยแรกเริ่ม ภาษาอ็อบเจกทีฟ-ซี พัฒนาขึ้นจากภาษาซีโดยยังคงคุณลักษณะของภาษาซีไว้ครบทุกประการเพียงแต่เพิ่มระบบส่งข้อความ (messaging) แบบเดียวกับภาษาสมอลล์ทอล์กเข้าไปเท่านั้น (Objective-C runtime) ปัจจุบันภาษาอ็อบเจกทีฟ-ซีมีคุณสมบัติอื่นๆเพิ่มเติมจากการพัฒนาภาษาอ็อบเจกทีฟ-ซี 2.0 โดยบริษัทแอปเปิล
       </p>
     </div>
 
@@ -73,7 +68,15 @@
       <h2>วิธีการเขียน Hello World</h2>
       <pre>
       <code data-language="c">
-        print("Hello World")</code>
+        #import &lt;Foundation/Foundation.h>
+
+        int main(int argc, const char * argv[]) {
+          @autoreleasepool {
+              NSLog(@"Hello, World");
+          }
+          return 0;
+        }
+        # Hello World</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis
@@ -86,7 +89,14 @@
       <h2>วิธีการคำนวนทางคณิตศาสตร์</h2>
       <pre>
       <code data-language="c">
-        print(1 + 1)
+        #import &lt;Foundation/Foundation.h>
+
+        int main(int argc, const char * argv[]) {
+          @autoreleasepool {
+              NSLog(@1 + 1);
+          }
+          return 0;
+        }
         # 2</code>
     </pre>
       <p class="explain">
@@ -100,9 +110,17 @@
       <h2>วิธีการใช้ตัวแปร</h2>
       <pre>
       <code data-language="c">
-        name = "John Doe"
-        print(name)
-        # John Doe</code>
+        #import &lt;Foundation/Foundation.h>
+
+        int main(int argc, const char * argv[]) {
+          @autoreleasepool {
+              char *name = "John Doe"
+              int age = 24
+              NSLog(@name + ", I'm " + age + "years old");
+          }
+          return 0;
+        }
+        # John Doe, I'm 24 years old</code>
     </pre>
       <p class="explain">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum, quis

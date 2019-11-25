@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Kanit:500&display=swap');
 
 body {
-  background: #F08331; 
+  background: #ff6600; 
   font-family: 'Kanit', sans-serif;
 }
 
@@ -18,7 +18,7 @@ h1 {
 
 .game {
   height: 50vh;
-  background: white;
+  overflow: hidden;
 }
 
 li {
@@ -33,10 +33,12 @@ li {
 a {
   text-decoration: none;
   color: #000;
+  cursor: pointer;
 }
 
 a:hover {
-  color: #fff; 
+  color: #fff;
+  transition: all 0.2s ease-in;
 }
 
 li {
@@ -51,4 +53,21 @@ li {
 .logo {
   height: 1em;
   padding-right: .5em;
+}
+
+#lang {
+  margin-bottom: 5em;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  background: #f7f7f7;
+}
+
+footer > p {
+  color: #333333
 }
