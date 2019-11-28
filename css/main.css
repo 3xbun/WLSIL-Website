@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Kanit:500&display=swap");
 
 body {
-  background: #ff6600;
+  background: #fa8c43;
   font-family: "Kanit", sans-serif;
 }
 
@@ -23,9 +23,26 @@ h1 {
   font-size: 3em;
 }
 
+#wrapper {
+  padding-top: 56.25%;
+  width: 100%;
+  background: red;
+  position: relative;
+  margin-bottom: 5em;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+#wrapper:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
 .game {
-  height: 50vh;
-  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 li {
