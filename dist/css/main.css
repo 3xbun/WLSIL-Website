@@ -58,16 +58,20 @@ a {
   text-decoration: none;
   color: #000;
   cursor: pointer;
+  padding: 0.2em 1em;
 }
 
 a:hover {
   color: #fff;
-  transition: all 0.2s ease-in;
+  background: rgba(255, 255, 255, 0.137);
+  border-radius: 10px;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
 li {
   list-style: none;
   text-align: center;
+  margin-bottom: 0.5em;
 }
 
 .lang ul li img {
@@ -77,8 +81,10 @@ li {
 #lang h1 {
   background: #fff;
   margin: auto;
+  margin-bottom: 1em;
   width: 80%;
   border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
 .logo {
@@ -97,8 +103,20 @@ footer {
   right: 0;
   text-align: center;
   background: #f7f7f7;
+  box-shadow: 0 -3px 6px rgba(0, 0, 0, 0.16), 0 -3px 6px rgba(0, 0, 0, 0.23);
 }
 
 footer > p {
   color: #333333;
+}
+
+.contact {
+  padding: 0;
+  color: #333333;
+}
+
+.contact:hover {
+  color: #333333;
+  text-decoration: underline;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
