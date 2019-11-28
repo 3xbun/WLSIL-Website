@@ -1,13 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Kanit:500&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Kanit:500&display=swap");
 
 body {
-  background: #ff6600; 
-  font-family: 'Kanit', sans-serif;
+  background: #ff6600;
+  font-family: "Kanit", sans-serif;
 }
 
 .container {
   margin: auto;
   width: 90vw;
+}
+
+#title {
+  background: #fff;
+  margin: auto;
+  width: 80%;
+  border-radius: 10px;
 }
 
 h1 {
@@ -50,9 +57,16 @@ li {
   vertical-align: middle;
 }
 
+#lang h1 {
+  background: #fff;
+  margin: auto;
+  width: 80%;
+  border-radius: 10px;
+}
+
 .logo {
   height: 1em;
-  padding-right: .5em;
+  padding-right: 0.5em;
 }
 
 #lang {
@@ -69,5 +83,5 @@ footer {
 }
 
 footer > p {
-  color: #333333
+  color: #333333;
 }
