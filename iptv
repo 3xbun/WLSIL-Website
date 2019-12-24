@@ -557,35 +557,35 @@ https://check.wandee.online/hls/8329bae3ab53b12baa137e83888ce9ea/8329bae3ab53b12
 #EXTINF: -1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--6rxIkhN5--/t_Preview/b_rgb:ffb81c,c_limit,f_jpg,h_630,q_90,w_630/v1569614746/production/designs/6141569_0.jpg" group-title="SERIES", THE MANDALORIAN SS 1 EP4
 https://check.wandee.online/hls/3aed05d7ca20df08682df3fcc5f55486/3aed05d7ca20df08682df3fcc5f55486.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", THE MANDALORIAN SS 1 EP5
+#EXTINF: -1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--6rxIkhN5--/t_Preview/b_rgb:ffb81c,c_limit,f_jpg,h_630,q_90,w_630/v1569614746/production/designs/6141569_0.jpg" group-title="SERIES", THE MANDALORIAN SS 1 EP5
 https://check.wandee.online/hls/c47eaca742c0b4a7e8ca9387bfd2ce84/c47eaca742c0b4a7e8ca9387bfd2ce84.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", THE MANDALORIAN SS 1 EP6
+#EXTINF: -1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--6rxIkhN5--/t_Preview/b_rgb:ffb81c,c_limit,f_jpg,h_630,q_90,w_630/v1569614746/production/designs/6141569_0.jpg" group-title="SERIES", THE MANDALORIAN SS 1 EP6
 https://check.wandee.online/hls/38a33b6c3ad9bd703f0635fd1d464404/38a33b6c3ad9bd703f0635fd1d464404.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", THE MANDALORIAN SS 1 EP7
+#EXTINF: -1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--6rxIkhN5--/t_Preview/b_rgb:ffb81c,c_limit,f_jpg,h_630,q_90,w_630/v1569614746/production/designs/6141569_0.jpg" group-title="SERIES", THE MANDALORIAN SS 1 EP7
 https://check.wandee.online/hls/d9748fd46eb9287951c0c310bc77fbb0/d9748fd46eb9287951c0c310bc77fbb0.playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.redd.it/ly1szb9ucp731.jpg" group-title="SERIES", The Witcher SS 1 EP1
 https://check.wandee.online/hls/81afe1fae3ebdfa40ef84088b3ed245d/81afe1fae3ebdfa40ef84088b3ed245d.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", The Witcher SS 1 EP2
+#EXTINF: -1 tvg-logo="https://i.redd.it/ly1szb9ucp731.jpg" group-title="SERIES", The Witcher SS 1 EP2
 https://check.wandee.online/hls/408669c5944d963ec0e56c95aa025bdc/408669c5944d963ec0e56c95aa025bdc.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", The Witcher SS 1 EP3
+#EXTINF: -1 tvg-logo="https://i.redd.it/ly1szb9ucp731.jpg" group-title="SERIES", The Witcher SS 1 EP3
 https://check.wandee.online/hls/31bf8b1011f70369c26026011bb4d60f/31bf8b1011f70369c26026011bb4d60f.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", The Witcher SS 1 EP4
+#EXTINF: -1 tvg-logo="https://i.redd.it/ly1szb9ucp731.jpg" group-title="SERIES", The Witcher SS 1 EP4
 https://check.wandee.online/hls/575ee8153fb20051219fb366b216e73f/575ee8153fb20051219fb366b216e73f.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", The Witcher SS 1 EP5
+#EXTINF: -1 tvg-logo="https://i.redd.it/ly1szb9ucp731.jpg" group-title="SERIES", The Witcher SS 1 EP5
 https://check.wandee.online/hls/a4e9f32850ea9500b4764598d381519c/a4e9f32850ea9500b4764598d381519c.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", The Witcher SS 1 EP6
+#EXTINF: -1 tvg-logo="https://i.redd.it/ly1szb9ucp731.jpg" group-title="SERIES", The Witcher SS 1 EP6
 https://check.wandee.online/hls/4f35628fe7bfccff3e1536cf14eda1de/4f35628fe7bfccff3e1536cf14eda1de.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", The Witcher SS 1 EP7
+#EXTINF: -1 tvg-logo="https://i.redd.it/ly1szb9ucp731.jpg" group-title="SERIES", The Witcher SS 1 EP7
 https://check.wandee.online/hls/fe33ee98ecbb09ae3f0f57b37cd12916/fe33ee98ecbb09ae3f0f57b37cd12916.playlist.m3u8
 
-#EXTINF: -1 group-title="SERIES", The Witcher SS 1 EP8
+#EXTINF: -1 tvg-logo="https://i.redd.it/ly1szb9ucp731.jpg" group-title="SERIES", The Witcher SS 1 EP8
 https://check.wandee.online/hls/8e7a7507d30c818b60891fa326212e33/8e7a7507d30c818b60891fa326212e33.playlist.m3u8
