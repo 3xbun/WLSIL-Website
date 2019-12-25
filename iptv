@@ -539,8 +539,17 @@ https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
 #EXTINF:-1 group-title="SPORT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel 12
 https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
 
-#EXTINF:-1 group-title="SPORT"tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b1/99/30/b19930c1-07e6-a5ff-a918-68b37b328d81/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/246x0w.png",MUTV
-https://cdn235.cloud-streaming.com/fifa55u_x4/mutv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAxOSA2OjAzOjAwIFBNJmhhc2hfdmFsdWU9cHZ5dVh3Z3dkc2dPaCtXeFZDYVF2QT09JnZhbGlkbWludXRlcz0xJmlkPTc1ODA4NQ==
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://lh3.googleusercontent.com/KO4JBkqSO_HLxnagnPyOcfeHz2kRZQ9raAFwHftdtAkdqw0WBdFg3HIudB6zLCaNctAO",MUTV
+http://95.170.215.120/hls/m3u8/MUTV.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://nflhd.tv/landing/new/images/red-zone.jpg",NFL REDZONE HD
+http://213.152.172.67:25461/SOURCEUSASNOW/3246569824/1724
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://lh3.googleusercontent.com/KO4JBkqSO_HLxnagnPyOcfeHz2kRZQ9raAFwHftdtAkdqw0WBdFg3HIudB6zLCaNctAO",NFL NOW HD
+http://213.152.172.67:25461/SOURCEUSASNOW/3246569824/1725
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/8b/d5/0a8bd529-c343-cf31-52c4-7f0988ed3aeb/AppIcon-release-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/246x0w.png",NFL NETWORK HD
+http://213.152.172.67:25461/SOURCEUSASNOW/3246569824/1726
 
 
 
