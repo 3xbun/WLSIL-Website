@@ -1,3 +1,5 @@
+#EXTINF:-1 group-title="Update: 08.02.2020", แจ้งช่องตายได้ที่ facebook: 3xbun
+
 ### FREE TV ###
 #EXTINF:-1 group-title="FREE TV" tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
@@ -390,7 +392,7 @@ https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORT"tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1 Backup
-https://cdn235.cloud-streaming.com/fifa55u_x1/beinsport1_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNTo0Mzo1MyBBTSZoYXNoX3ZhbHVlPWVXeHFmMUg5RXlEU05Pc0pqdGxGNmc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03NDc3OTU=
+https://cdn235.cloud-streaming.com/fifa55u_x1/beinsport1_480p/chunks.m3u8?nimblesessionid=5377994&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNTo0Mzo1MyBBTSZoYXNoX3ZhbHVlPWVXeHFmMUg5RXlEU05Pc0pqdGxGNmc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03NDc3OTU=
 
 #EXTINF:-1 group-title="SPORT"tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2 
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
